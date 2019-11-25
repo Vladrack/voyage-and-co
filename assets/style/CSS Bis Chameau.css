@@ -1,0 +1,58 @@
+#imageDesert {
+    background-image: url("../img/desert egyptien.jpg");
+    background-size: cover;
+    height: 350px;
+    background-repeat: no-repeat;
+    text-align: center;
+       background-position-x: right;
+}
+.linkColor {
+    text-decoration: none;
+    color: black;
+    width: 100%;   
+}
+#textDesert {
+    padding-top: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.linkColor a:hover {
+    color: black; 
+}
+.linkColor a {
+    text-decoration: none;
+    color: black;
+    margin: 3vw;
+}
+#backgroundUrl {
+    background-image: url('../img/banniere.jpg');
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size:1400px;
+}
+#opacity {
+  background-color: rgba(255, 255, 255, 0);
+}
+#imageSize1 {
+    width: 400px;
+    height:200px;
+}
+#imageSize2 {
+    width: 400px;
+    height:200px;
+}
+#imageSize3 {
+    width: 400px;
+    height:200px;
+}
+#carouselSize1 {
+    width:800px;
+    height:600px
+}
+#carouselSize2 {
+    width: 800px;
+    height: 600px;
+}
+#carouselSize3 {
+    width: 800px;
+    height: 600px;
+}
